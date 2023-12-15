@@ -34,4 +34,9 @@
 
 7. Commit changes.
 
-8. Add screenshot:![Mainpage](Main page.JPG)
+8. Add screenshot: 
+![Mainpage](Mainpage.JPG)
+
+9. Realize once again that images is my nemesis. 
+
+10. Fix and commit again. 
